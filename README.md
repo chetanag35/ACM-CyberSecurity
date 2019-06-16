@@ -30,11 +30,11 @@ How to submit assignments?
 
  git push origin master
  
-5)Login to github and send a pull request to isunitha98selvan/ACM-CyberSecurity.
+5)Login to github and send a pull request to ACM-NITK/ACM-CyberSecurity.
 
 To configure upstream:
 
-git remote add upstream https://github.com/isunitha98selvan/ACM-CyberSecurity.git
+git remote add upstream https://github.com/ACM-NITK/ACM-CyberSecurity.git
 
 To pull the latest changes:
 
